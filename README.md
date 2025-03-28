@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFDD&center=true&vCenter=true&width=435&lines=Hey+There%2C+I'm+Vignesh!;AI+Developer+%26+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFDD&center=true&vCenter=true&width=435&lines=Hey+There%2C+I'm+Vignesh!;AI Developer+%26+Data+Scientist" alt="Typing SVG" />
   <h3>🚀 Crafting Cutting-Edge Solutions with Python, ML, and LLMs</h3>
   <p>With over <strong>3+ years</strong> of experience, I’m passionate about turning ideas into reality through code.</p>
 </div>
