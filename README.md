@@ -53,9 +53,9 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh4u4u&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh4u4u&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
