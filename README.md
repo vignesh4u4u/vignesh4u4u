@@ -29,14 +29,6 @@
 
 ---
 
-### 📈 My GitHub Journey
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ### ✨ Fun Facts
 - 🎨 I dabble in design with Adobe Illustrator.
