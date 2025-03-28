@@ -31,7 +31,7 @@
 
 ### 📈 My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh4u4u&show_icons=true&locale=en&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh4u4u&show_icons=true&locale=en&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide=html,css,markdown&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
