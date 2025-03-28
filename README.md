@@ -1,65 +1,52 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Vignesh!</h1>
-  <h3>AI Developer & Data Scientist | 3+ Years of Experience</h3>
-  <p>Passionate about crafting innovative solutions with <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Large Language Models (LLMs)</strong>.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFDD&center=true&vCenter=true&width=435&lines=Hey+There%2C+I'm+Vignesh!;AI+Developer+%26+Data+Scientist" alt="Typing SVG" />
+  <h3>🚀 Crafting Cutting-Edge Solutions with Python, ML, and LLMs</h3>
+  <p>With over <strong>3+ years</strong> of experience, I’m passionate about turning ideas into reality through code.</p>
 </div>
 
 ---
 
-### 🏆 My GitHub Trophies
+### 🌟 A Bit About Me
+- 🧠 **Specialties**: Machine Learning, Large Language Models, Data Science
+- 💻 **Tech Enthusiast**: Always exploring new tools and frameworks
+- 🌍 **Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-s-41135319a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bcrc1b1umrocjlolhw%2bv8qw%3d%3d)
+
+---
+
+### 🏆 GitHub Highlights
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vignesh4u4u&theme=onedark&margin-w=15" alt="vignesh4u4u" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vignesh4u4u&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### ⚙️ My Tech Stack
 <p align="center">
-  <a href="https://www.linkedin.com/in/vicky-s-41135319a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bcrc1b1umrocjlolhw%2bv8qw%3d%3d" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,aws,django,flask,docker,git,html,css,js,linux,mysql,opencv,pandas,postman,pytorch,sklearn,seaborn,tensorflow,arduino,c,illustrator" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN8JerWBl75UdLm3F7d5DLZSb3WFVMnj8iQQ&s" alt="Flask" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+### 📈 My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh4u4u&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh4u4u&show_icons=true&locale=en&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
+### ✨ Fun Facts
+- 🎨 I dabble in design with Adobe Illustrator.
+- ☕ Fueled by coffee and curiosity.
+- 📚 Always learning—currently diving deeper into LLMs!
+
+---
+
 <div align="center">
-  <p>✨ "Code is like poetry; it’s all about finding the right rhythm." ✨</p>
+  <img src="https://komarev.com/ghpvc/?username=vignesh4u4u&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <p><strong>"Code is my canvas, and innovation is my brush."</strong></p>
 </div>
