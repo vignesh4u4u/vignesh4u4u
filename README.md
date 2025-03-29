@@ -9,6 +9,9 @@
   <a href="https://github.com/vignesh4u4u">
     <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://huggingface.co/vicky4s4s">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
 ---
@@ -41,11 +44,13 @@
 ---
 
 ## 🔥 Recent Projects
-| 🚀 Project | 🔍 Description | 🔗 Demo |
-|------------|--------------|---------|
-| 🤖 **AI Chatbot** | Built a smart conversational AI using LLMs & Python | [Check it out](#) |
+
+| 🚀 Project            | 🔍 Description                                      | 🔗 Demo |
+|----------------------|--------------------------------------------------|---------|
+| 🤖 **AI Chatbot**    | Built a smart conversational AI using LLMs & Python | [Try it here](https://freeai-chatbot.streamlit.app/) |
 | 🖼️ **Image Recognition** | Real-time object detection with OpenCV & TensorFlow | [View project](#) |
-| 📊 **Data Visualization Dashboard** | Interactive dashboard using Pandas & Seaborn | [See details](#) |
+| 📊 **RAG and Fine-Tune** | LLM fine-tuning for retrieval-augmented generation | [https://github.com/vignesh4u4u/Chatbotfine_tune_wandb](#) |
+
 
 <p align="center"><em>Explore more in my <a href="https://github.com/vignesh4u4u?tab=repositories">GitHub Repos</a>!</em></p>
 
