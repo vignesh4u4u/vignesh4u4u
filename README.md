@@ -10,19 +10,19 @@
 ### 🌟 Who Am I?
 - 🧠 **Core Skills**: Machine Learning, Large Language Models, Data Science  
 - 💻 **Mission**: Pushing the boundaries of AI to create smarter, scalable solutions  
-- 🌍 **Let’s Connect**: Find me on [LinkedIn](https://www.linkedin.com/in/vicky-s-41135319a) or explore my [GitHub](https://github.com/YOUR_USERNAME)  
+- 🌍 **Let’s Connect**: Find me on [LinkedIn](https://www.linkedin.com/in/vicky-s-41135319a) or explore my [GitHub](https://github.com/vignesh4u4u)  
 
 ---
 
 ### 🏆 GitHub Highlights
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vignesh4u4u&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh4u4u&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh4u4u&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 - **[AI-Powered Chatbot](#)**: Built a conversational AI using LLMs and Python for seamless user interaction.  
 - **[Image Recognition System](#)**: Leveraged OpenCV and TensorFlow for real-time object detection.  
 - **[Data Visualization Dashboard](#)**: Created an interactive dashboard with Pandas and Seaborn.  
-<p align="center"><em>Check out my <a href="https://github.com/YOUR_USERNAME?tab=repositories">repos</a> for more!</em></p>
+<p align="center"><em>Check out my <a href="https://github.com/vignesh4u4u?tab=repositories">repos</a> for more!</em></p>
 
 ---
 
@@ -57,7 +57,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vignesh4u4u&style=flat-square&color=brightgreen" alt="Profile Views" />
   <p><strong>"AI is my canvas, and innovation is my brush."</strong></p>
   <p>💬 Got an idea or collaboration in mind? <a href="mailto:your.email@example.com">Drop me a line!</a></p>
 </div>
