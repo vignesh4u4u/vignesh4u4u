@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FFDD&center=true&vCenter=true&width=600&lines=Hey+There%2C+I’m+Vignesh!;AI+Dev+%26+Data+Scientist+Extraordinaire" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FFDD&center=true&vCenter=true&width=600&lines=Hey+There%2C+I’m+Vignesh!;AI+Dev+%26+Data+Scientist" alt="Typing SVG" />
   <h3>🚀 Pioneering AI Solutions with Python, ML, and LLMs</h3>
   <p>With over <strong>3+ years</strong> of experience, I craft intelligent systems that solve real-world problems.</p>
   <a href="https://www.linkedin.com/in/vicky-s-41135319a"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
