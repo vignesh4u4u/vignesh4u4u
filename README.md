@@ -49,7 +49,6 @@
 | 🚀 Project            | 🔍 Description                                      | 🔗 Demo |
 |----------------------|--------------------------------------------------|---------|
 | 🤖 **AI Chatbot**    | Built a smart conversational AI using LLMs & Python | [https://github.com/vignesh4u4u/streamlit_paddleocr] |
-
 | 📊 **RAG and Fine-Tune** | LLM fine-tuning for retrieval-augmented generation | [https://github.com/vignesh4u4u/Chatbotfine_tune_wandb](#) |
 
 
