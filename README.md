@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://huggingface.co/vicky4s4s">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/HuggingFace-Explore%20Models-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black">
   </a>
+
 </div>
 
 ---
@@ -47,7 +48,7 @@
 
 | 🚀 Project            | 🔍 Description                                      | 🔗 Demo |
 |----------------------|--------------------------------------------------|---------|
-| 🤖 **AI Chatbot**    | Built a smart conversational AI using LLMs & Python | [Try it here](https://freeai-chatbot.streamlit.app/) |
+| 🤖 **AI Chatbot**    | Built a smart conversational AI using LLMs & Python | [Try it here](https://github.com/vignesh4u4u/streamlit_paddleocr) |
 | 🖼️ **Image Recognition** | Real-time object detection with OpenCV & TensorFlow | [View project](#) |
 | 📊 **RAG and Fine-Tune** | LLM fine-tuning for retrieval-augmented generation | [https://github.com/vignesh4u4u/Chatbotfine_tune_wandb](#) |
 
