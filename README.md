@@ -92,6 +92,6 @@ I'm a **passionate AI Developer & Data Scientist** with **4+ years of hands-on e
 ### 💬 “AI is not just code — it’s a way of thinking.”
 
 📩 **Let’s collaborate:**  
-✉️ your.email@example.com  
+✉️ **vickys9715@gmail.com**
 
 </div>
