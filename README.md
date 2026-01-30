@@ -87,7 +87,8 @@ I'm a **passionate AI Developer & Data Scientist** with **4+ years of hands-on e
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vignesh4u4u&style=flat-square&color=brightgreen" />
+<img src="https://komarev.com/ghpvc/?username=vignesh4u4u&style=flat-square&color=00ffcc" />
+
 
 ### 💬 “AI is not just code — it’s a way of thinking.”
 
